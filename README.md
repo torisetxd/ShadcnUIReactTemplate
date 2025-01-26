@@ -2,3 +2,5 @@
 
 This template provides somewhere to start with Shadcn, React, TS & Vite.
 Sometimes setting up this stuff is annoying so I made this :).
+
+I might ocasionally update this, no guarantee tho.
